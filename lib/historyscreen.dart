@@ -43,7 +43,14 @@ class MyProfile extends StatelessWidget {
                         fontSize: 30, color: Color.fromARGB(255, 185, 13, 13)),
                   ),
                   const Text(
-                    "ปริญญา ญาติสมบูรณ์ 62143150",
+                    " Hello! Who Am I ?",
+                    style: TextStyle(
+                        fontSize: 15,
+                        fontWeight: FontWeight.bold,
+                        color: Color.fromARGB(255, 16, 241, 27)),
+                  ),
+                  const Text(
+                    " นาย ปริญญา ญาติสมบูรณ์ 62143150",
                     style: TextStyle(
                         fontSize: 15, color: Color.fromARGB(255, 7, 7, 7)),
                   ),
